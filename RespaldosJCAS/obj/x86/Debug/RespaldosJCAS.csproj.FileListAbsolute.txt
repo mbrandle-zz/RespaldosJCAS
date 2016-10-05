@@ -1,0 +1,11 @@
+c:\users\mario\documents\visual studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\bin\Debug\RespaldosJCAS.exe.config
+c:\users\mario\documents\visual studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\bin\Debug\RespaldosJCAS.exe
+c:\users\mario\documents\visual studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\bin\Debug\RespaldosJCAS.pdb
+c:\users\mario\documents\visual studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\bin\Debug\MySql.Data.dll
+c:\users\mario\documents\visual studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\bin\Debug\MySqlBackup.dll
+c:\users\mario\documents\visual studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\obj\x86\Debug\RespaldosJCAS.exe
+c:\users\mario\documents\visual studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\obj\x86\Debug\RespaldosJCAS.pdb
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\bin\Debug\RespaldosJCAS.exe.config
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\obj\x86\Debug\RespaldosJCAS.exe
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\RespaldosJCAS\RespaldosJCAS\obj\x86\Debug\RespaldosJCAS.pdb
